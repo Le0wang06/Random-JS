@@ -1,7 +1,5 @@
 # 🚀 Random Little Craft LoL - A 3D Spaceship in Three.js
 
-![Little EeeCraft](https://threejs.org/examples/textures/sprite1.png)  
-
 Little EeeCraft is a **3D spaceship** built with **Three.js**!  
 It features a **detailed spaceship model**, **realistic thruster flames**, and a **deep-space environment** with floating stars.  
 You can **zoom, rotate, and explore** the spaceship interactively!
